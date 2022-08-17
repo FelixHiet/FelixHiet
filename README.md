@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FelixHiet
 - 👀 I’m interested in React and web development
 - 🌱 I’m currently learning more JS and React
+- 📫 My webpage link here: https://felixhiet.github.io/cvpage
 - 📫 How to reach me https://www.linkedin.com/in/felix-hietaranta-b37aa716b/
 
 <!---
