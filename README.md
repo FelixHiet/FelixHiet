@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Felix Hietaranta
+- 👋 Hi, I’m Felix Hietaranta
 - 👀 I’m interested in React, Front end and web development
 - 🌱 I’m currently learning more JS and React
 - 📫 My webpage link here: https://felixhiet.github.io/cvpage
